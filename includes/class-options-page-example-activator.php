@@ -3,7 +3,7 @@
 /**
  * Fired during plugin activation
  *
- * @link       https://fahdmurtaza.com
+ * @link       https://www.fahdmurtaza.com
  * @since      1.0.0
  *
  * @package    Options_Page_Example

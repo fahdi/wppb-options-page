@@ -8,7 +8,7 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://fahdmurtaza.com
+ * @link              https://www.fahdmurtaza.com
  * @since             1.0.0
  * @package           Options_Page_Example
  *
@@ -18,7 +18,7 @@
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
  * Author:            Fahad Murtaza
- * Author URI:        https://fahdmurtaza.com
+ * Author URI:        https://www.fahdmurtaza.com
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       options-page-example

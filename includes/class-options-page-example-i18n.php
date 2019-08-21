@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       https://fahdmurtaza.com
+ * @link       https://www.fahdmurtaza.com
  * @since      1.0.0
  *
  * @package    Options_Page_Example
